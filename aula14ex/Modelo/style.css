@@ -20,6 +20,10 @@ section{
 
 }
 
+div { 
+    text-align: justify;
+}
+
 footer{
     color: white;
     text-align: center;
